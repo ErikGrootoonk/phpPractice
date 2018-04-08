@@ -14,14 +14,8 @@
 <p style="text-align:right;">Rechtse tekst</p>
 
 
+ <a href="#" class="btn btn--large btn--orange">naar Webdesign</a>
 
-
-<!--
-<div class="container">
-
-  Hallo daar!
-</div>
--->
 
 </body>
 
