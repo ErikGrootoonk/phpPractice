@@ -1,7 +1,7 @@
 
 .navbar {
 
-        background-color:black;
+        background-color:rgba(0, 0, 0, 0.2);
 
 
         }
@@ -18,7 +18,7 @@
     }
 
 .navbar  li {
-         float: left;
+         float: right;
     }
 
 .navbar  li a {
@@ -27,16 +27,16 @@
         text-align: center;
         padding: 14px 16px;
         text-decoration: none;
+        text-transform: uppercase;
         font-family: Arial, Helvetica, sans-serif;
     }
 
     /* Change the link color to #111 (black) on hover */
 .navbar   li a:hover {
-        background-color: olive;
+        background-color: orange;
     }
 
 body {
-  background-image: url("img/azieAvond.jpg");
   background-size: 100%;
   background-repeat: no-repeat;
   margin: 0;

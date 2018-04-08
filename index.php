@@ -8,10 +8,7 @@
 
 <?php include "header.php"; ?>
 
-<body>
-
-<h1>Pow pow </h1>  zei het pistooltje</p>
-<p style="text-align:right;">Rechtse tekst</p>
+<body background="img/azieAvond.jpg">
 
  <div class="wrapper">
  
@@ -21,5 +18,8 @@
 
 </body>
 
+<footer>
 <?php include "footer.php";?>
+</footer>
 </html>
+

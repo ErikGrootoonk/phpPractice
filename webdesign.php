@@ -8,10 +8,11 @@
 
 <?php include "header.php"; ?>
 
+<body background="img/berlincalling.jpg">
 
 Hallo hier komt tekst over webdesign
 
 
-
+</body>
 <?php include "footer.php";?>
 </html>
