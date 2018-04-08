@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<meta charset="UTF8">
+<head>
+    <title>Berlin Calling</title>
+    <link rel="stylesheet" href="main.css" type="text/css" />
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+</head>
+
+<?php include "header.php"; ?>
+
+<body background="img/478915.jpg">
+
+<!-- <p style="text-align:left"><h1>Pow pow </h1>  zei het pistooltje</p>
+<p style="text-align:right;">Rechtse tekst</p> -->
+
+
+
+
+
+<div class="container">
+
+  Hallo daar!
+</div>
+
+
+</body>
+
+<?php include "footer.php";?>
+</html>
