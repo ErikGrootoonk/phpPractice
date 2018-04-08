@@ -8,20 +8,20 @@
 
 <?php include "header.php"; ?>
 
-<body background="img/478915.jpg">
+<body>
 
-<!-- <p style="text-align:left"><h1>Pow pow </h1>  zei het pistooltje</p>
-<p style="text-align:right;">Rechtse tekst</p> -->
-
-
+<h1>Pow pow </h1>  zei het pistooltje</p>
+<p style="text-align:right;">Rechtse tekst</p>
 
 
 
+
+<!--
 <div class="container">
 
   Hallo daar!
 </div>
-
+-->
 
 </body>
 
