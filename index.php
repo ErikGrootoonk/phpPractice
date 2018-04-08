@@ -10,16 +10,16 @@
 
 <body background="img/azieAvond.jpg">
 
- <div class="wrapper">
+    <div class="wrapper">
  
-  <a href="webdesign.php" class="btn btn--large btn--orange" >naar Webdesign </a>
+        <a href="webdesign.php" class="btn btn--large btn--orange" >naar Webdesign </a>
 
- </div>
+    </div>
 
 </body>
 
-<footer>
-<?php include "footer.php";?>
-</footer>
+    <div class="footer">
+        <?php include "footer.php";?>
+    </div>
 </html>
 

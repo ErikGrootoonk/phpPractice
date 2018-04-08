@@ -14,5 +14,7 @@ Hallo hier komt tekst over webdesign
 
 
 </body>
-<?php include "footer.php";?>
+    <div class="footer">
+        <?php include "footer.php";?>
+    </div>
 </html>
