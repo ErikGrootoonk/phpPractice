@@ -207,3 +207,13 @@ button,
     cursor: default;
     color: #333;
   }
+
+
+  .wrapper {
+    text-align: center;
+}
+
+.btn {
+    position: absolute;
+    top: 50%;
+}

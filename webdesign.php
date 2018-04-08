@@ -8,18 +8,10 @@
 
 <?php include "header.php"; ?>
 
-<body>
 
-<h1>Pow pow </h1>  zei het pistooltje</p>
-<p style="text-align:right;">Rechtse tekst</p>
+Hallo hier komt tekst over webdesign
 
- <div class="wrapper">
- 
-  <a href="webdesign.php" class="btn btn--large btn--orange" >naar Webdesign </a>
 
- </div>
-
-</body>
 
 <?php include "footer.php";?>
 </html>
