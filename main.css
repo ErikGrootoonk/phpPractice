@@ -37,9 +37,10 @@
 
 body {
   background-color: gray;
-  background-repeat: no-repeat;
+  background-repeat: no-repeat; 
+  /* background-position:center; */
   background-size: 100%;
-  margin: 0;
+  
   color: White;
   font-family: sans-serif;
 }
